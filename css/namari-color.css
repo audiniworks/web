@@ -168,6 +168,7 @@ body {
     line-height:60px;
     font-weight:800;
     color:#111;
+    text-transform: uppercase;
 }
 
 #banner h2 {
